@@ -32,3 +32,15 @@ Another list of tools, project, libraries which might be considered for your pro
 * 
 ## Dashboards
 # Analytics
+
+# Others
+## Data Validation
+* https://cuelang.org/docs/about/
+## Policy Engine
+* https://www.openpolicyagent.org/
+* https://github.com/newm4n/grool (Archived)
+
+
+# Sources
+* https://awesomeopensource.com/
+* https://www.cncf.io/
