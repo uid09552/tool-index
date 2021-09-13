@@ -1,5 +1,5 @@
 # Tool-index
-Another list of tools, project, libraries which might be considered for your project
+Collection of Tools and Projects I´ve considered for my projects. 
 
 # Kubernetes
 ## Provisioning
@@ -21,11 +21,17 @@ Another list of tools, project, libraries which might be considered for your pro
 # Java
 
 # Golang
-
+## State Machines
+* https://github.com/qmuntal/stateless
+## JWT Tokens
+* https://github.com/dgrijalva/jwt-go
+* 
 # Docker
 
 # Monitoring
-
+# IAM, IDP, AUTH
+* [modular auth system, oauth2, oauth1, 2FA] (https://github.com/volatiletech/authboss)
+* 
 # Logging
 
 ## Log Management
@@ -75,3 +81,4 @@ Another list of tools, project, libraries which might be considered for your pro
 # Sources
 * https://awesomeopensource.com/
 * https://www.cncf.io/
+* https://github.com/avelino/awesome-go
