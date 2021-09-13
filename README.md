@@ -24,6 +24,10 @@ Collection of Tools and Projects I´ve considered for my projects.
 ## State Machines
 * https://github.com/qmuntal/stateless
 
+## Job Management
+* https://github.com/gocraft/work
+* https://github.com/jasonlvhit/gocron
+
 ## JWT Tokens
 * https://github.com/dgrijalva/jwt-go
 
