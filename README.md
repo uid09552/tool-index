@@ -23,9 +23,14 @@ Collection of Tools and Projects I´ve considered for my projects.
 # Golang
 ## State Machines
 * https://github.com/qmuntal/stateless
+
 ## JWT Tokens
 * https://github.com/dgrijalva/jwt-go
-* 
+
+## Logging
+* https://github.com/Sirupsen/logrus
+* https://github.com/golang/glog
+* https://github.com/cabify/logrusiowriter
 # Docker
 
 # Monitoring
