@@ -2,7 +2,22 @@
 Another list of tools, project, libraries which might be considered for your project
 
 # Kubernetes
+## Provisioning
+* https://kubevela.io/docs/concepts
+* https://github.com/kubernetes-sigs/kustomize
+* https://helm.sh/
+* https://github.com/nanovms/nanos
+* https://kpt.dev/
 
+## Packaging
+* https://cnab.io/
+* https://helm.sh/
+* https://porter.sh/
+* 
+## Disater Recovery
+* https://github.com/FairwindsOps/gemini
+* https://velero.io/
+* 
 # Java
 
 # Golang
@@ -31,15 +46,28 @@ Another list of tools, project, libraries which might be considered for your pro
 * https://github.com/hyqer/kafka-forwarder
 * 
 ## Dashboards
+* https://grafana.com/
+* http://dashing.io/
+
 # Analytics
+* https://www.knime.com/
+
+# IAC
+* https://www.pulumi.com/
+* https://www.terraform.io/
+* https://www.ansible.com/
+* https://puppet.com/
 
 # Others
 ## Data Validation
 * https://cuelang.org/docs/about/
+
 ## Policy Engine
 * https://www.openpolicyagent.org/
 * https://github.com/newm4n/grool (Archived)
-
+## Mircro/Nano VMs
+* https://ops.city/
+* 
 # Patterns & Standards
 * https://github.com/oam-dev/spec
 * https://12factor.net/
