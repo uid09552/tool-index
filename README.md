@@ -40,7 +40,10 @@ Another list of tools, project, libraries which might be considered for your pro
 * https://www.openpolicyagent.org/
 * https://github.com/newm4n/grool (Archived)
 
-
+# Patterns & Standards
+* https://github.com/oam-dev/spec
+* https://12factor.net/
+* 
 # Sources
 * https://awesomeopensource.com/
 * https://www.cncf.io/
