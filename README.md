@@ -1,5 +1,5 @@
 # Tool-index
-Collection of Tools and Projects I´ve considered for my projects. 
+Collection of Tools, Posts and Projects I´ve considered for my projects. 
 
 # Kubernetes
 ## Provisioning
@@ -7,17 +7,44 @@ Collection of Tools and Projects I´ve considered for my projects.
 * https://github.com/kubernetes-sigs/kustomize
 * https://helm.sh/
 * https://github.com/nanovms/nanos
-* https://kpt.dev/
+* https://kpt.dev
+
+## Development
+* https://www.telepresence.io/
+
+## Security
+* https://github.com/aporeto-inc/trireme-kubernetes
+* https://sysdig.com/opensource/falco/
+* https://sysdig.com/products/secure/
+* https://kubesec.io
 
 ## Packaging
 * https://cnab.io/
 * https://helm.sh/
 * https://porter.sh/
-* 
+## Operators
+* https://keel.sh/
+
+## CLI
+* https://github.com/ahmetb/kubectx
+* https://github.com/boz/kail
+
 ## Disater Recovery
 * https://github.com/FairwindsOps/gemini
 * https://velero.io/
-* 
+
+## Platform
+* https://kyma-project.io/
+* https://rancher.com/
+
+## Mesh
+* https://kiali.io/
+* https://istio.io/
+* https://linkerd.io/
+
+## Others
+* https://virtual-kubelet.io/
+
 # Java
 
 # Golang
@@ -35,6 +62,21 @@ Collection of Tools and Projects I´ve considered for my projects.
 * https://github.com/Sirupsen/logrus
 * https://github.com/golang/glog
 * https://github.com/cabify/logrusiowriter
+
+# Deployment
+* https://github.com/logzio/apollo
+* https://github.com/azure/draft
+
+# Serverless
+* https://github.com/kubeless/kubeless
+* https://fission.io/
+* https://github.com/funktionio/funktion
+* https://github.com/iron-io/functions
+* https://openwhisk.apache.org/
+* https://github.com/openfaas/faas
+* https://github.com/nuclio/nuclio
+* http://fnproject.io/
+
 # Docker
 
 # Monitoring
@@ -59,7 +101,27 @@ Collection of Tools and Projects I´ve considered for my projects.
 * https://www.elastic.co/de/downloads/logstash
 * https://www.syslog-ng.com/
 * https://github.com/hyqer/kafka-forwarder
-* 
+
+## Tracing
+* https://opentelemetry.io/docs/
+* https://opentracing.io/docs/overview/what-is-tracing/
+* https://opencensus.io/
+* https://spring.io/projects/spring-cloud-sleuth
+* https://quarkus.io/guides/opentelemetry
+* https://zipkin.io/
+* https://www.jaegertracing.io
+
+## MDC
+* https://www.baeldung.com/mdc-in-log4j-2-logback
+
+## SIEM
+* https://cybersecurity.att.com/products/ossim
+* http://metron.apache.org/
+* https://www.ossec.net/
+* https://wazuh.com/migrating-from-ossec/
+* https://siemonster.com/
+
+
 ## Dashboards
 * https://grafana.com/
 * http://dashing.io/
@@ -82,7 +144,14 @@ Collection of Tools and Projects I´ve considered for my projects.
 * https://github.com/newm4n/grool (Archived)
 ## Mircro/Nano VMs
 * https://ops.city/
-* 
+
+# Testing
+* https://github.com/asobti/kube-monkey
+* https://github.com/mrahbar/k8s-testsuite
+* https://github.com/kubernetes/test-infra
+* https://sonobuoy.io/
+* https://github.com/bloomberg/powerfulseal
+
 # Patterns & Standards
 * https://github.com/oam-dev/spec
 * https://12factor.net/
