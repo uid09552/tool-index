@@ -163,6 +163,10 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 ## Query Engine
 * https://drill.apache.org/
 
+# PKI
+* https://www.ejbca.org/
+* https://www.openxpki.org/
+
 # Patterns & Standards
 * https://github.com/oam-dev/spec
 * https://12factor.net/
