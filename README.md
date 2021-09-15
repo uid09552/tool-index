@@ -22,6 +22,7 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://cnab.io/
 * https://helm.sh/
 * https://porter.sh/
+
 ## Operators
 * https://keel.sh/
 
@@ -82,7 +83,7 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 # Monitoring
 # IAM, IDP, AUTH
 * [modular auth system, oauth2, oauth1, 2FA] (https://github.com/volatiletech/authboss)
-* 
+
 # Logging
 
 ## Log Management
@@ -121,7 +122,6 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://wazuh.com/migrating-from-ossec/
 * https://siemonster.com/
 
-
 ## Dashboards
 * https://grafana.com/
 * http://dashing.io/
@@ -147,6 +147,7 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 ## Policy Engine
 * https://www.openpolicyagent.org/
 * https://github.com/newm4n/grool (Archived)
+
 ## Mircro/Nano VMs
 * https://ops.city/
 
@@ -160,7 +161,7 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 # Patterns & Standards
 * https://github.com/oam-dev/spec
 * https://12factor.net/
-* 
+
 # Sources
 * https://awesomeopensource.com/
 * https://www.cncf.io/
