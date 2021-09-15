@@ -129,6 +129,11 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 # Analytics
 * https://www.knime.com/
 
+# IAM
+* https://www.ory.sh/hydra/docs/
+* https://www.keycloak.org/
+* https://docs.cloudfoundry.org/concepts/architecture/uaa.html
+
 # IAC
 * https://www.pulumi.com/
 * https://www.terraform.io/
