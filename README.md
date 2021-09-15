@@ -29,7 +29,7 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://github.com/ahmetb/kubectx
 * https://github.com/boz/kail
 
-## Disater Recovery
+## Disaster Recovery
 * https://github.com/FairwindsOps/gemini
 * https://velero.io/
 
