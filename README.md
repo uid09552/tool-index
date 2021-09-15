@@ -90,6 +90,7 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://www.graylog.org/products/open-source
 * https://nxlog.co
 * https://www.elastic.co/
+* https://www.loggly.com/
 
 ## Log Databases
 * https://github.com/grafana/loki
@@ -157,6 +158,10 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://github.com/kubernetes/test-infra
 * https://sonobuoy.io/
 * https://github.com/bloomberg/powerfulseal
+# Databases
+
+## Query Engine
+* https://drill.apache.org/
 
 # Patterns & Standards
 * https://github.com/oam-dev/spec
