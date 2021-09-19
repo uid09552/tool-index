@@ -47,6 +47,8 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://virtual-kubelet.io/
 
 # Java
+## Configuration
+* https://microprofile.io/
 
 # Golang
 ## State Machines
