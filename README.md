@@ -9,6 +9,12 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://github.com/nanovms/nanos
 * https://kpt.dev
 
+## Dashboards
+* https://k8slens.dev/
+* https://github.com/kubernetes/dashboard
+* https://octant.dev/
+* https://github.com/kubenav/kubenav
+
 ## Development
 * https://www.telepresence.io/
 
