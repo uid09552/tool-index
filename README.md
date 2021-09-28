@@ -14,6 +14,7 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://github.com/kubernetes/dashboard
 * https://octant.dev/
 * https://github.com/kubenav/kubenav
+* https://www.portainer.io/
 
 ## Development
 * https://www.telepresence.io/
