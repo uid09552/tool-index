@@ -178,6 +178,12 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://www.dogtagpki.org/wiki/PKI_Main_Page
 * https://github.com/letsencrypt/boulder
 
+# IOT
+## Digital Twin
+* https://www.eclipse.org/ditto/
+* https://docs.aws.amazon.com/iot/latest/developerguide/iot-device-shadows.html
+* https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-devguide-device-twins
+
 # Patterns & Standards
 * https://github.com/oam-dev/spec
 * https://12factor.net/
