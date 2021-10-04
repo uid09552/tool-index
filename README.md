@@ -15,6 +15,7 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://octant.dev/
 * https://github.com/kubenav/kubenav
 * https://www.portainer.io/
+* https://github.com/kubevious/kubevious
 
 ## Development
 * https://www.telepresence.io/
