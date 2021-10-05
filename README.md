@@ -8,7 +8,6 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://helm.sh/
 * https://github.com/nanovms/nanos
 * https://kpt.dev
-
 ## Dashboards
 * https://k8slens.dev/
 * https://github.com/kubernetes/dashboard
@@ -19,6 +18,8 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 
 ## Development
 * https://www.telepresence.io/
+### Cluster Setup
+* https://kind.sigs.k8s.io/
 
 ## Security
 * https://github.com/aporeto-inc/trireme-kubernetes
