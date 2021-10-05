@@ -10,7 +10,7 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://kpt.dev
 * https://github.com/crossplane/crossplane
 * https://github.com/kubernetes/kops
-
+* https://kind.sigs.k8s.io/
 ## Dashboards
 * https://k8slens.dev/
 * https://github.com/kubernetes/dashboard
@@ -22,8 +22,8 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 ## Development
 * https://www.telepresence.io/
 
-### Cluster Setup
-* https://kind.sigs.k8s.io/
+## App Lifecycle
+* https://keel.sh/
 
 ## Security
 * https://github.com/aporeto-inc/trireme-kubernetes
@@ -38,7 +38,7 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://porter.sh/
 
 ## Operators
-* https://keel.sh/
+
 
 ## CLI
 * https://github.com/ahmetb/kubectx
