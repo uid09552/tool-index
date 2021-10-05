@@ -11,6 +11,13 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://github.com/crossplane/crossplane
 * https://github.com/kubernetes/kops
 * https://kind.sigs.k8s.io/
+
+### GitOps && Pipelines
+* https://argo-cd.readthedocs.io/en/stable/
+* https://fluxcd.io/
+* https://github.com/tektoncd/pipeline
+* https://spinnaker.io/docs/setup/install/providers/kubernetes-v2/
+
 ## Dashboards
 * https://k8slens.dev/
 * https://github.com/kubernetes/dashboard
@@ -38,7 +45,9 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://porter.sh/
 
 ## Operators
-
+* https://book.kubebuilder.io/
+* https://juju.is/
+* https://kudo.dev/
 
 ## CLI
 * https://github.com/ahmetb/kubectx
