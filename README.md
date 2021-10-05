@@ -9,6 +9,7 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://github.com/nanovms/nanos
 * https://kpt.dev
 * https://github.com/crossplane/crossplane
+* https://github.com/kubernetes/kops
 ## Dashboards
 * https://k8slens.dev/
 * https://github.com/kubernetes/dashboard
