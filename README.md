@@ -76,6 +76,7 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 # Golang
 ## State Machines
 * https://github.com/qmuntal/stateless
+* https://github.com/uber/cadence
 
 ## Job Management
 * https://github.com/gocraft/work
