@@ -174,6 +174,7 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 ## Policy Engine
 * https://www.openpolicyagent.org/
 * https://github.com/newm4n/grool (Archived)
+* https://github.com/casbin/casbin
 
 ## Mircro/Nano VMs
 * https://ops.city/
