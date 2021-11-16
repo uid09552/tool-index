@@ -207,6 +207,8 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://github.com/oam-dev/spec
 * https://12factor.net/
 
+# GCP
+*`https://github.com/priyankavergadia/google-cloud-4-words
 # Sources
 * https://awesomeopensource.com/
 * https://www.cncf.io/
@@ -214,4 +216,4 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://collabnix.github.io/kubetools/
 * https://awesome-go.com/
 * https://github.com/meirwah/awesome-workflow-engines
-* 
+*
