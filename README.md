@@ -160,6 +160,7 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://www.ory.sh/hydra/docs/
 * https://www.keycloak.org/
 * https://docs.cloudfoundry.org/concepts/architecture/uaa.html
+* https://github.com/teramoby/speedle-plus
 
 # IAC
 * https://www.pulumi.com/
