@@ -220,4 +220,4 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://collabnix.github.io/kubetools/
 * https://awesome-go.com/
 * https://github.com/meirwah/awesome-workflow-engines
-*
+* https://github.com/analysis-tools-dev/static-analysis#container
