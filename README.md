@@ -213,7 +213,7 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 
 # GCP
 *`https://github.com/priyankavergadia/google-cloud-4-words
-# Sources
+# Sources/Awesome page sources
 * https://awesomeopensource.com/
 * https://www.cncf.io/
 * https://github.com/avelino/awesome-go
@@ -221,3 +221,4 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://awesome-go.com/
 * https://github.com/meirwah/awesome-workflow-engines
 * https://github.com/analysis-tools-dev/static-analysis#container
+* https://getawesomeness.herokuapp.com/
