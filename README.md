@@ -211,6 +211,9 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://github.com/oam-dev/spec
 * https://12factor.net/
 
+# Testing
+* https://github.com/atinfo/awesome-test-automation/blob/master/general-purpose-test-automation-tools.md
+* 
 # GCP
 *`https://github.com/priyankavergadia/google-cloud-4-words
 # Sources/Awesome page sources
@@ -222,3 +225,4 @@ Collection of Tools, Posts and Projects I´ve considered for my projects.
 * https://github.com/meirwah/awesome-workflow-engines
 * https://github.com/analysis-tools-dev/static-analysis#container
 * https://getawesomeness.herokuapp.com/
+* https://github.com/atinfo/awesome-test-automation/blob/master/general-purpose-test-automation-tools.md
